@@ -11,3 +11,8 @@ OCR for sudoku
   year={2014},
   organization={IEEE}
 }
+
+## Ongoing notes
+- tried to run simplest model (ocr the top left digit)
+    - failed due to lack of RAM (got the worst machine paperspace has)
+- created first dataset
