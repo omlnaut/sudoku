@@ -1,0 +1,2 @@
+# sudoku
+OCR for sudoku
